@@ -1,1 +1,1 @@
-print ('Melquiades habia estado con la muerte pero había regresado porque no pudo soportar la soledad')
+print ('Para esa epoca, Melquiades habia envejecido con una rapidez asombrosa')
