@@ -1,1 +1,1 @@
-print ('Muchos años despues frente el peloton de fusilamiento')
+print ('Muchos años despues frente el peloton de fusilamiento, Aureliano Buendía')
