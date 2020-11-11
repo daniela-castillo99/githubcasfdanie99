@@ -1,1 +1,1 @@
-print ('Melquiades habia estado con la muerte pero había regresado porque no pudo soportar la soledad')
+print ('El coronel Aureliano Buendía había de recordar aquella tarde que conocio el hielo con su padre')
