@@ -1,1 +1,3 @@
 print ('El coronel Aureliano Buendía había de recordar aquella tarde que conocio el hielo con su padre')
+print ('Para esa epoca, Melquiades habia envejecido con una rapidez asombrosa')
+
